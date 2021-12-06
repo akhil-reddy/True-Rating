@@ -1,6 +1,6 @@
-True Rating
+# True Rating
 
-Description
+## Description
 
 This project is used to obtain genuine ratings for a movie. It filters all the fake ratings given by bots to alter the image of the movie to the public. With the power of Natural
 Language Processing and BeautifulSoup package in Python (for web extraction), it gives a rating based on the reviews written by various critics and movie buffs.
